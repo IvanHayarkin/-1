@@ -1,0 +1,15 @@
+D:\github\итог\bin\Debug\net7.0\итог.exe
+D:\github\итог\bin\Debug\net7.0\итог.deps.json
+D:\github\итог\bin\Debug\net7.0\итог.runtimeconfig.json
+D:\github\итог\bin\Debug\net7.0\итог.dll
+D:\github\итог\bin\Debug\net7.0\итог.pdb
+D:\github\итог\obj\Debug\net7.0\итог.csproj.AssemblyReference.cache
+D:\github\итог\obj\Debug\net7.0\итог.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\итог\obj\Debug\net7.0\итог.AssemblyInfoInputs.cache
+D:\github\итог\obj\Debug\net7.0\итог.AssemblyInfo.cs
+D:\github\итог\obj\Debug\net7.0\итог.csproj.CoreCompileInputs.cache
+D:\github\итог\obj\Debug\net7.0\итог.dll
+D:\github\итог\obj\Debug\net7.0\refint\итог.dll
+D:\github\итог\obj\Debug\net7.0\итог.pdb
+D:\github\итог\obj\Debug\net7.0\итог.genruntimeconfig.cache
+D:\github\итог\obj\Debug\net7.0\ref\итог.dll
